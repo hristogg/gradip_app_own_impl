@@ -1,0 +1,9 @@
+project_id: tlnrtest-189411
+region: europe-west3
+bucket: cachingtest4
+text_gen_model_name: gemini-1.0-pro
+text_embed_model_name: text-multilingual-embedding-002
+api_endpoint: 70446471.europe-west3-258111191672.vdb.vertexai.goog
+index_name: projects/258111191672/locations/europe-west3/indexes/900332897381122048
+index_endpoint: projects/258111191672/locations/europe-west3/indexEndpoints/141124516448305152
+deployed_index_id: yetqnaindexid2
